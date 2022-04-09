@@ -1,4 +1,3 @@
-
 const API_KEY='befce9fd53c04bb695e30568399296c0';
 
 const choicesElem=document.querySelector('.js-choices');
